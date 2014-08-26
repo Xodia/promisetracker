@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF95A591-8245-4709-AA91-8DD31953590B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PromisesTracker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1EAB8D14-B1EE-462F-9038-9A4B51F898E6</key>
+		<string>https://github.com/Xodia/promisetracker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PromisesTracker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1EAB8D14-B1EE-462F-9038-9A4B51F898E6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Xodia/promisetracker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1EAB8D14-B1EE-462F-9038-9A4B51F898E6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1EAB8D14-B1EE-462F-9038-9A4B51F898E6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>promisetracker</string>
+		</dict>
+	</array>
+</dict>
+</plist>
